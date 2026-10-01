@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vectorclasschange.github.io/sitemap.xml
